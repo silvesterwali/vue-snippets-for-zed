@@ -1,0 +1,20 @@
+{
+    "vue empty script setup ts": {
+    "prefix": "v-setup-ts",
+    "description": "A boilerplate for an empty props inside a script (ts) tag",
+    "body": [
+      "<script setup lang='ts'>",
+      "",
+      "</script>",
+      "",
+      "<template>",
+      "   <div>",
+      "   </div>",
+      "</template>",
+      "",
+      "<style lang='css'>",
+      "",
+      "</style>"
+    ]
+  }
+}
